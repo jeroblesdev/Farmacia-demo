@@ -2,7 +2,7 @@
 
 Aplicación web para controlar el inventario de una farmacia, con alertas de vencimiento y de reposición de stock. Funciona desde el celular y se puede instalar como app.
 
-**Ver demo:** https://jeremias123r.github.io/Farmacia-demo/
+**Ver demo:** 
 
 Cuenta de prueba: `demo@farmacia` / `farmacia2026` (datos ficticios)
 
